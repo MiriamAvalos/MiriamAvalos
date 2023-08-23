@@ -1,5 +1,5 @@
 # Hi! <img src="https://github.com/arelyweb/arelywebprueba/blob/master/wave.gif" width="30px">   I'm Miriam Avalos, also known as Miri!     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
- :earth_americas:  I'm based in Mexico  <br>
+ :earth_americas:  I'm based in México  <br>
  :computer:    Currently, I am a web development Front-end student at Laboratoria. <br>
  :cat: I love my cats Gaby and Taquito. <br>
  :bulb: I am a creative person; I enjoy embroidery, making ceramics, and drawing. <br>
