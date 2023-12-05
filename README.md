@@ -9,9 +9,10 @@
     
 
  ##  📎  Connect with me:
- :shipit: LINKEDIN: <br>   <a href="https://www.linkedin.com/in/miriamavalos/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="javascript" width="25" height="25"/></a>
+ :shipit:	: LINKEDIN <br>   <a href="https://www.linkedin.com/in/miriamavalos/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="javascript" width="25" height="25"/></a>
 
-  :envelope_with_arrow: EMAIL: <br>  miriamavalos.aceves@gmail.com 
+  📩 EMAIL: <br>  miriamavalos.aceves@gmail.com 
+  
  
 
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools:
